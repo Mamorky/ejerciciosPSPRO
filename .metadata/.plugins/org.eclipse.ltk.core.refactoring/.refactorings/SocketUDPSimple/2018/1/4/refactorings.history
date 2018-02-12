@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;dam.psp.DatoUDP&apos; to &apos;DatoUDP2&apos;&#x0A;- Original project: &apos;SocketUDPSimple&apos;&#x0A;- Original element: &apos;dam.psp.DatoUDP&apos;&#x0A;- Renamed element: &apos;dam.psp.DatoUDP2&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;DatoUDP&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;dam.psp{DatoUDP.java[DatoUDP" matchStrategy="1" name="DatoUDP2" qualified="false" references="true" similarDeclarations="false" stamp="1516879495768" textual="false" version="1.0"/>
+</session>

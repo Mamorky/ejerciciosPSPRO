@@ -1,0 +1,18 @@
+package dam.psp;
+
+public class Palillo {
+	int numero;
+	boolean enUso;
+	
+	public Palillo(int numPalillo) {
+		this.numero = numPalillo;
+	}
+	
+	public void coger() {
+		
+	}
+	
+	public void soltar() {
+		
+	}
+}

@@ -1,0 +1,19 @@
+package dam.psp;
+
+public class Palillo {
+	int numero;
+	boolean enUso;
+	
+	public Palillo(int numPalillo) {
+		this.numero = numPalillo;
+	}
+	
+	public void coger() {
+	}
+	
+	public void soltar() {
+		System.out.println("El hilo "+Thread.currentThread()+ "ya ha comido");
+		enUso = false;
+		notifyAll();
+	}
+}

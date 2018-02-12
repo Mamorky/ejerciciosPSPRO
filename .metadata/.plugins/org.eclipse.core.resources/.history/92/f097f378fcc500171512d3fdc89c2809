@@ -1,0 +1,19 @@
+package dam.psp;
+
+public class Filosofo extends Thread {
+	int pIzquierdo;
+	int pDerecho;
+	int numero;
+	int veces;
+	
+	public void pensar() {};
+	public void cogerPalillo() {};
+	public void soltarPalillo() {};
+	public void comer() {};
+	
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		super.run();
+	}
+}

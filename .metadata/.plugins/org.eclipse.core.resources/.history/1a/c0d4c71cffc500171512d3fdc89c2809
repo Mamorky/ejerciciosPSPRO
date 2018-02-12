@@ -1,0 +1,28 @@
+package dam.psp;
+
+public class Filosofo implements Runnable {
+	int pIzquierdo;
+	int pDerecho;
+	int numero;
+	int veces;
+	Cena cena;
+	
+	public Filosofo(Cena cena,int numFil,int veces) {
+		this.cena = cena;
+		this.numero = numFil;
+		this.veces = veces;
+		
+		pIzquierdo = cena.getPalilloI(numero);
+		pDerecho = cena.getPalilloD(numero);
+	}
+	
+	public void pensar() {};
+	public void cogerPalillo() {};
+	public void soltarPalillo() {};
+	public void comer() {};
+	
+	@Override
+	public void run() {
+		
+	}
+}

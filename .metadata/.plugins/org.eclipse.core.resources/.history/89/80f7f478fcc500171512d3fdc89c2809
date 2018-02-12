@@ -1,0 +1,15 @@
+package dam.psp;
+
+public class Cena {
+	int comensales;
+	
+	public Palillo getPalillo(int x) {
+		return new Palillo();
+	}
+	public int getPalilloD(int x) {
+		return x;
+	}
+	public int getPalilloI(int x) {
+		return x;
+	}
+}

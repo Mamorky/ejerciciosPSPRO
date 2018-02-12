@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;socket&apos; in &apos;dam.psp.ServidorHilo.ServidorHilo(...)&apos; to &apos;mySocket&apos;&#x0A;- Original project: &apos;SocketTCP_Hilos_2018&apos;&#x0A;- Original element: &apos;dam.psp.ServidorHilo.ServidorHilo(Socket, int).socket&apos;&#x0A;- Renamed element: &apos;socket&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;socket&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;dam.psp{ServidorHilo.java[ServidorHilo~ServidorHilo~QSocket;~I@socket!425!437!432!437!QSocket;!0!true" name="mySocket" references="true" stamp="1516273420054" version="1.0"/>
+</session>

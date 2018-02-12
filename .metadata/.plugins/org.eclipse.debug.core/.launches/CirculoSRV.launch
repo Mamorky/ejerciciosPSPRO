@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/RMI_Calculadora_2018/src/dam/psp/CirculoSRV.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="dam.psp.CirculoSRV"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="RMI_Calculadora_2018"/>
+</launchConfiguration>
